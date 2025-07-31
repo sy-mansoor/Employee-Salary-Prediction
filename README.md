@@ -73,7 +73,7 @@ Through this internship, I was able to dive deep into the world of Artificial In
 [![Open In Colab](https://img.shields.io/badge/Open%20in-Google%20Colab-orange?style=for-the-badge&logo=googlecolab&logoColor=white)](https://colab.research.google.com/drive/1IUQGDpWdA11phEWgrxsO83c_Gl_7DPSh?usp=sharing)
 
 
-## Authors
+## Author
 
 - [Syed Mansoor Ahmed](https://www.github.com/octokatherine)
 
